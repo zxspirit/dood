@@ -1,0 +1,10 @@
+server:
+  port: 8088
+tools:
+  ip:
+    display: true
+    display2: false
+tools1:
+  ip:
+    display: true
+    display2: false
